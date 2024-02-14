@@ -1,0 +1,69 @@
+fail_fast: false
+repos:
+    - repo: https://github.com/astral-sh/ruff-pre-commit
+      # Ruff version.
+      rev: v0.1.9
+      hooks:
+          # Run the linter.
+          - id: ruff
+            types_or: [python, pyi, jupyter]
+            args: [--fix]
+            verbose: true
+          # Run the formatter.
+          - id: ruff-format
+            types_or: [python, pyi, jupyter]
+            verbose: true
+
+    - repo: local
+      hooks:
+          - id: stylelint
+            name: stylelint
+            entry: npx stylelint
+            args: [--fix, --ignore-path, .ignore]
+            language: system
+            types: [file]
+            files: \.(vue|htm|html|css|sss|less|scss|sass|mak|mako|jinja2)$
+            verbose: true
+
+          - id: prettier
+            name: prettier
+            entry: npx prettier
+            args: [--write, --ignore-path, .ignore]
+            language: system
+            types: [file]
+            files: \.(js|json|md|vue|yaml|yml)$ # html
+            verbose: true
+
+          - id: html-beautify
+            name: html-beautify
+            entry: npx html-beautify
+            args: []
+            language: system
+            types: [file]
+            files: \.(htm|html|mak|mako|jinja2)$
+            verbose: true
+            stages: [manual]
+
+          - id: shfmt
+            name: shfmt
+            entry: shfmt
+            args: [-l, -w]
+            language: system
+            types: [shell]
+            verbose: true
+
+          - id: shellcheck
+            name: shellcheck
+            entry: shellcheck
+            language: system
+            types: [shell]
+            verbose: true
+
+          # https://zhauniarovich.com/post/2020/2020-06-clearing-jupyter-output/
+          # https://github.com/srstevenson/nb-clean
+          # https://github.com/kynan/nbstripout/
+          - id: jupyter-nb-clear-output
+            name: jupyter-nb-clear-output
+            files: \.ipynb$
+            language: system
+            entry: jupyter nbconvert --clear-output --inplace

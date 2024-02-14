@@ -1,0 +1,7 @@
+# Utils
+ipython==8.12.0
+
+# Linters y Formatters
+pre-commit==3.2.2
+ruff==0.1.9
+

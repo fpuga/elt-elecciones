@@ -1,0 +1,20 @@
+volumes:
+    db:
+services:
+    postgres:
+        image: postgres:latest
+        # restart: always
+        environment:
+            POSTGRES_DB: "elecciones"
+            POSTGRES_USER: "postgres"
+            POSTGRES_PASSWORD: "postgres"
+        ports:
+            - 5432:5432
+        healthcheck:
+            test: ["CMD-SHELL", "pg_isready -U postgres"]
+            interval: 2s
+            timeout: 15s
+            retries: 5
+            start_period: 3s
+        volumes:
+            - db:/var/lib/postgresql/data
