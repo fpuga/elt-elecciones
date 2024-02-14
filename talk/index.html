@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+
+    <title>ELT Elecciones con stack Python</title>
+
+    <link rel="stylesheet" href="./reveal/dist/reset.css" />
+    <link rel="stylesheet" href="./reveal/dist/reveal.css" />
+    <link rel="stylesheet" href="./reveal/dist/theme/black.css" />
+
+    <!-- Theme used for syntax highlighted code -->
+    <link rel="stylesheet" href="./reveal/plugin/highlight/monokai.css" />
+    <!--
+		 captions
+		 https://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll
+
+     data separator
+     https://github.com/hakimel/reveal.js/issues/1372
+
+     estilo tablas
+     https://github.com/hakimel/reveal.js/issues/1901
+		 -->
+    <style>
+            figcaption {
+                font-size: small;
+                margin-top: -15px;
+            }
+    </style>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section
+          data-markdown="README.md"
+          data-separator-notes="^\?\?\?"
+          data-separator="^---$"
+          data-separator-vertical="^--$"
+        ></section>
+      </div>
+    </div>
+
+    <script src="./reveal/dist/reveal.js"></script>
+    <script src="./reveal/plugin/notes/notes.js"></script>
+    <script src="./reveal/plugin/markdown/markdown.js"></script>
+    <script src="./reveal/plugin/highlight/highlight.js"></script>
+    <script>
+      // More info about initialization & config:
+      // - https://revealjs.com/initialization/
+      // - https://revealjs.com/config/
+      Reveal.initialize({
+        hash: true,
+
+        // Learn about plugins: https://revealjs.com/plugins/
+        plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
+      });
+    </script>
+  </body>
+</html>
