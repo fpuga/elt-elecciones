@@ -6,7 +6,7 @@ from pathlib import Path
 
 import matplotlib.pyplot as plt
 import pandas as pd
-from dagster import AssetExecutionContext, MaterializeResult, MetadataValue, asset
+from dagster import AssetExecutionContext, MetadataValue, asset
 from myconfig import DATA_FOLDER, engine
 from parser.main import _zips_to_postgres
 from scrapper.main import _extract
@@ -14,7 +14,7 @@ from scrapper.requests_utils import authorized_session, download_file_copy
 
 
 @asset(group_name="elecciones", compute_kind="InfoElectoral API")
-def obtener_listado(context: AssetExecutionContext) -> MaterializeResult:
+def obtener_listado(context: AssetExecutionContext) -> list[dict]:
     """Persiste a disco un json con metadatos sobre las convocatorias electorales.
 
     * Código, fecha, descripción, ... de la convocatoria.
@@ -27,16 +27,13 @@ def obtener_listado(context: AssetExecutionContext) -> MaterializeResult:
     * Sólo se están almacenando las convocatorias al Congreso.
     """
     result = _extract()
-    context.log.info("Datos recuperados")
-    with (DATA_FOLDER / "listado.json").open("w") as f:
-        json.dump(result, f)
-    return MaterializeResult(
+    context.add_output_metadata(
         metadata={
             "num_records": len(result),  # Metadata can be any key-value pair
             "preview": MetadataValue.json(result[:3]),
-            # The `MetadataValue` class has useful static methods to build Metadata
         }
     )
+    return result
 
 
 @asset(deps=[obtener_listado], group_name="elecciones", compute_kind="Load")
@@ -52,12 +49,10 @@ def listado_a_postgres():
     listado.to_sql("listado", engine, schema="raw", if_exists="replace", index=False)
 
 
-@asset(deps=[listado_a_postgres], group_name="elecciones", compute_kind="Extract")
-def descargar_zips(context: AssetExecutionContext):
+@asset(group_name="elecciones", compute_kind="Extract")
+def descargar_zips(context: AssetExecutionContext, obtener_listado: list[dict]):
     """Descarga los .zip con datos a partir del fichero con el listado de metadatos."""
-    with (DATA_FOLDER / "listado.json").open() as f:
-        listado = json.load(f)
-    for item in listado:
+    for item in obtener_listado:
         filepath: Path = DATA_FOLDER / item["nombreDoc"]
         if filepath.exists():
             # TODO(fpuga): Se podría en descargar igual, y hacer un checksum para ver
@@ -88,12 +83,12 @@ def zips_to_postgres():
     _zips_to_postgres(data)
 
 
-@asset(deps=[obtener_listado], group_name="elecciones", compute_kind="Plot")
-def elecciones_por_anho(context: AssetExecutionContext) -> MaterializeResult:
+@asset(group_name="elecciones", compute_kind="Plot")
+def elecciones_por_anho(
+    context: AssetExecutionContext, obtener_listado: list[dict]
+) -> dict:
     """Calcula cuantas elecciones ha habido al año."""
-    with (DATA_FOLDER / "listado.json").open() as f:
-        data = json.load(f)
-    listado = pd.DataFrame.from_dict(data, orient="columns")
+    listado = pd.DataFrame.from_dict(obtener_listado, orient="columns")
 
     context.log.debug("Calcular contador")
     counter = Counter(listado["convocatoria_fecha"].str[:4].to_list())
@@ -115,8 +110,5 @@ def elecciones_por_anho(context: AssetExecutionContext) -> MaterializeResult:
     # Convert the image to Markdown to preview it within Dagster
     md_content = f"![img](data:image/png;base64,{image_data.decode()})"
 
-    with (DATA_FOLDER / "elecciones_por_anho.json").open("w") as f:
-        json.dump(ordered_counter, f)
-
-    # Attach the Markdown content as metadata to the asset
-    return MaterializeResult(metadata={"plot": MetadataValue.md(md_content)})
+    context.add_output_metadata(metadata={"plot": MetadataValue.md(md_content)})
+    return ordered_counter
