@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+    - name: raw
+      tables:
+          - name: candidatos
+            meta:
+                dagster:
+                    asset_key: ["zips_to_postgres"]
+          - name: candidaturas
+    - name: prod
+      tables:
+          - name: candidatos

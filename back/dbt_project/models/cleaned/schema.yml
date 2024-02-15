@@ -1,0 +1,42 @@
+version: 2
+
+models:
+    - name: candidatos
+      description: "Candidatos transformados"
+      columns:
+          - name: tipo
+            description: ""
+            data_type: "int"
+          - name: mes
+            description: ""
+            data_type: "int"
+          - name: ines_provincia
+            description: ""
+            data_type: "int"
+          - name: distrito_electoral
+            description: ""
+            data_type: "int"
+          - name: ine_municipio
+            description: ""
+            data_type: "int"
+          - name: codigo_candidatura
+            description: ""
+            data_type: "int"
+          - name: orden_candidato
+            description: ""
+            data_type: "int"
+          - name: tipo_candidato
+            description: ""
+            data_type: "str"
+          - name: nombre
+            description: "Nombre, primer y segundo apellido"
+            data_type: "str"
+          - name: sexo
+            description: ""
+            data_type: "str"
+          - name: dni
+            description: ""
+            data_type: "str"
+          - name: elegido
+            description: ""
+            data_type: "bool"
