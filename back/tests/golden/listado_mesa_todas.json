@@ -1,0 +1,1112 @@
+[
+    {
+        "convocatoria_cod": "200003",
+        "convocatoria_fecha": "200003",
+        "convocatoria_descripcion": "Marzo 2000",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02200003_MESA.zip",
+        "nombreDoc": "02200003_MESA.zip",
+        "descripcion": "12 de Marzo de 2000 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199306",
+        "convocatoria_fecha": "199306",
+        "convocatoria_descripcion": "Junio 1993",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02199306_MESA.zip",
+        "nombreDoc": "02199306_MESA.zip",
+        "descripcion": "6 de Junio de 1993 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198910",
+        "convocatoria_fecha": "198910",
+        "convocatoria_descripcion": "Octubre 1989",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02198910_MESA.zip",
+        "nombreDoc": "02198910_MESA.zip",
+        "descripcion": "29 de Octubre de 1989 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198606",
+        "convocatoria_fecha": "198606",
+        "convocatoria_descripcion": "Junio 1986",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02198606_MESA.zip",
+        "nombreDoc": "02198606_MESA.zip",
+        "descripcion": "22 de Junio de 1986 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198210",
+        "convocatoria_fecha": "198210",
+        "convocatoria_descripcion": "Octubre 1982",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02198210_MESA.zip",
+        "nombreDoc": "02198210_MESA.zip",
+        "descripcion": "28 de Octubre de 1982 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198910",
+        "convocatoria_fecha": "198910",
+        "convocatoria_descripcion": "Octubre 1989",
+        "convocatoria_tipoConvocatoria": 3,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/03198910_MESA.zip",
+        "nombreDoc": "03198910_MESA.zip",
+        "descripcion": "29 de Octubre de 1989 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200105",
+        "convocatoria_fecha": "200105",
+        "convocatoria_descripcion": "Mayo 2001",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05200105_PVA_MESA.zip",
+        "nombreDoc": "05200105_PVA_MESA.zip",
+        "descripcion": "13 de Mayo de 2001 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200003",
+        "convocatoria_fecha": "200003",
+        "convocatoria_descripcion": "Marzo 2000",
+        "convocatoria_tipoConvocatoria": 3,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/03200003_MESA.zip",
+        "nombreDoc": "03200003_MESA.zip",
+        "descripcion": "12 de Marzo de 2000 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199306",
+        "convocatoria_fecha": "199306",
+        "convocatoria_descripcion": "Junio 1993",
+        "convocatoria_tipoConvocatoria": 3,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/03199306_MESA.zip",
+        "nombreDoc": "03199306_MESA.zip",
+        "descripcion": "6 de Junio de 1993 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200705",
+        "convocatoria_fecha": "200705",
+        "convocatoria_descripcion": "Mayo 2007",
+        "convocatoria_tipoConvocatoria": 4,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/04200705_MESA.zip",
+        "nombreDoc": "04200705_MESA.zip",
+        "descripcion": "27 de Mayo de 2007 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200906",
+        "convocatoria_fecha": "200906",
+        "convocatoria_descripcion": "Junio 2009",
+        "convocatoria_tipoConvocatoria": 7,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/07200906_MESA.zip",
+        "nombreDoc": "07200906_MESA.zip",
+        "descripcion": "7 de Junio de 2009 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200803",
+        "convocatoria_fecha": "200803",
+        "convocatoria_descripcion": "Marzo 2008",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02200803_MESA.zip",
+        "nombreDoc": "02200803_MESA.zip",
+        "descripcion": "9 de Marzo de 2008 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198606",
+        "convocatoria_fecha": "198606",
+        "convocatoria_descripcion": "Junio 1986",
+        "convocatoria_tipoConvocatoria": 3,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/03198606_MESA.zip",
+        "nombreDoc": "03198606_MESA.zip",
+        "descripcion": "22 de Junio de 1986 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200003",
+        "convocatoria_fecha": "200003",
+        "convocatoria_descripcion": "Marzo 2000",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05200003_AND_MESA.zip",
+        "nombreDoc": "05200003_AND_MESA.zip",
+        "descripcion": "12 de Marzo de 2000 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198706",
+        "convocatoria_fecha": "198706",
+        "convocatoria_descripcion": "Junio 1987",
+        "convocatoria_tipoConvocatoria": 4,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/04198706_MESA.zip",
+        "nombreDoc": "04198706_MESA.zip",
+        "descripcion": "10 de Junio de 1987 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199603",
+        "convocatoria_fecha": "199603",
+        "convocatoria_descripcion": "Marzo 1996",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02199603_MESA.zip",
+        "nombreDoc": "02199603_MESA.zip",
+        "descripcion": "3 de Marzo de 1996 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198906",
+        "convocatoria_fecha": "198906",
+        "convocatoria_descripcion": "Junio 1989",
+        "convocatoria_tipoConvocatoria": 7,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/07198906_MESA.zip",
+        "nombreDoc": "07198906_MESA.zip",
+        "descripcion": "15 de Junio de 1989 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198706",
+        "convocatoria_fecha": "198706",
+        "convocatoria_descripcion": "Junio 1987",
+        "convocatoria_tipoConvocatoria": 7,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/07198706_MESA.zip",
+        "nombreDoc": "07198706_MESA.zip",
+        "descripcion": "13 de Junio de 1987 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200705",
+        "convocatoria_fecha": "200705",
+        "convocatoria_descripcion": "Mayo 2007",
+        "convocatoria_tipoConvocatoria": 6,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/06200705_MESA.zip",
+        "nombreDoc": "06200705_MESA.zip",
+        "descripcion": "27 de Mayo de 2007 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199906",
+        "convocatoria_fecha": "199906",
+        "convocatoria_descripcion": "Junio 1999",
+        "convocatoria_tipoConvocatoria": 4,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/04199906_MESA.zip",
+        "nombreDoc": "04199906_MESA.zip",
+        "descripcion": "13 de Junio de 1999 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199505",
+        "convocatoria_fecha": "199505",
+        "convocatoria_descripcion": "Mayo 1995",
+        "convocatoria_tipoConvocatoria": 4,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/04199505_MESA.zip",
+        "nombreDoc": "04199505_MESA.zip",
+        "descripcion": "28 de Mayo de 1995 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200403",
+        "convocatoria_fecha": "200403",
+        "convocatoria_descripcion": "Marzo 2004",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02200403_MESA.zip",
+        "nombreDoc": "02200403_MESA.zip",
+        "descripcion": "14 de Marzo de 2004 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200803",
+        "convocatoria_fecha": "200803",
+        "convocatoria_descripcion": "Marzo 2008",
+        "convocatoria_tipoConvocatoria": 3,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/03200803_MESA.zip",
+        "nombreDoc": "03200803_MESA.zip",
+        "descripcion": "9 de Marzo de 2008 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200403",
+        "convocatoria_fecha": "200403",
+        "convocatoria_descripcion": "Marzo 2004",
+        "convocatoria_tipoConvocatoria": 3,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/03200403_MESA.zip",
+        "nombreDoc": "03200403_MESA.zip",
+        "descripcion": "14 de Marzo de 2004 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199603",
+        "convocatoria_fecha": "199603",
+        "convocatoria_descripcion": "Marzo 1996",
+        "convocatoria_tipoConvocatoria": 3,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/03199603_MESA.zip",
+        "nombreDoc": "03199603_MESA.zip",
+        "descripcion": "3 de Marzo de 1996 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200502",
+        "convocatoria_fecha": "200502",
+        "convocatoria_descripcion": "Febrero 2005",
+        "convocatoria_tipoConvocatoria": 1,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/01200502_MESA.zip",
+        "nombreDoc": "01200502_MESA.zip",
+        "descripcion": "20 de Febrero de 2005 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200903",
+        "convocatoria_fecha": "200903",
+        "convocatoria_descripcion": "Marzo 2009",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05200903_MESA.zip",
+        "nombreDoc": "05200903_MESA.zip",
+        "descripcion": "1 de Marzo de 2009 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199406",
+        "convocatoria_fecha": "199406",
+        "convocatoria_descripcion": "Junio 1994",
+        "convocatoria_tipoConvocatoria": 7,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/07199406_MESA.zip",
+        "nombreDoc": "07199406_MESA.zip",
+        "descripcion": "12 de Junio de 1994 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198603",
+        "convocatoria_fecha": "198603",
+        "convocatoria_descripcion": "Marzo 1986",
+        "convocatoria_tipoConvocatoria": 1,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/01198603_MESA.zip",
+        "nombreDoc": "01198603_MESA.zip",
+        "descripcion": "12 de Marzo de 1986 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198706",
+        "convocatoria_fecha": "198706",
+        "convocatoria_descripcion": "Junio 1987",
+        "convocatoria_tipoConvocatoria": 6,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/06198706_MESA.zip",
+        "nombreDoc": "06198706_MESA.zip",
+        "descripcion": "10 de Junio de 1987 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200305",
+        "convocatoria_fecha": "200305",
+        "convocatoria_descripcion": "Mayo 2003",
+        "convocatoria_tipoConvocatoria": 4,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/04200305_MESA.zip",
+        "nombreDoc": "04200305_MESA.zip",
+        "descripcion": "25 de Mayo de 2003 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199105",
+        "convocatoria_fecha": "199105",
+        "convocatoria_descripcion": "Mayo 1991",
+        "convocatoria_tipoConvocatoria": 4,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/04199105_MESA.zip",
+        "nombreDoc": "04199105_MESA.zip",
+        "descripcion": "26 de Mayo de 1991 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200310",
+        "convocatoria_fecha": "200310",
+        "convocatoria_descripcion": "Octubre 2003",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05200310_MESA.zip",
+        "nombreDoc": "05200310_MESA.zip",
+        "descripcion": "26 de Octubre de 2003 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200406",
+        "convocatoria_fecha": "200406",
+        "convocatoria_descripcion": "Junio 2004",
+        "convocatoria_tipoConvocatoria": 7,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/07200406_MESA.zip",
+        "nombreDoc": "07200406_MESA.zip",
+        "descripcion": "13 de Junio de 2004 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199906",
+        "convocatoria_fecha": "199906",
+        "convocatoria_descripcion": "Junio 1999",
+        "convocatoria_tipoConvocatoria": 7,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/07199906_MESA.zip",
+        "nombreDoc": "07199906_MESA.zip",
+        "descripcion": "13 de Junio de 1999 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199910",
+        "convocatoria_fecha": "199910",
+        "convocatoria_descripcion": "Octubre 1999",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05199910_CAT_MESA.zip",
+        "nombreDoc": "05199910_CAT_MESA.zip",
+        "descripcion": "17 de Octubre de 1999 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198305",
+        "convocatoria_fecha": "198305",
+        "convocatoria_descripcion": "Mayo 1983",
+        "convocatoria_tipoConvocatoria": 15,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/15198305_MESA.zip",
+        "nombreDoc": "15198305_MESA.zip",
+        "descripcion": "8 de Mayo de 1983 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200803",
+        "convocatoria_fecha": "200803",
+        "convocatoria_descripcion": "Marzo 2008",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05200803_AND_MESA.zip",
+        "nombreDoc": "05200803_AND_MESA.zip",
+        "descripcion": "9 de Marzo de 2008 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199603",
+        "convocatoria_fecha": "199603",
+        "convocatoria_descripcion": "Marzo 1996",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05199603_AND_MESA.zip",
+        "nombreDoc": "05199603_AND_MESA.zip",
+        "descripcion": "3 de Marzo de 1996 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199511",
+        "convocatoria_fecha": "199511",
+        "convocatoria_descripcion": "Noviembre 1995",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05199511_CAT_MESA.zip",
+        "nombreDoc": "05199511_CAT_MESA.zip",
+        "descripcion": "19 de Noviembre de 1995 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199310",
+        "convocatoria_fecha": "199310",
+        "convocatoria_descripcion": "Octubre 1993",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05199310_GAL_MESA.zip",
+        "nombreDoc": "05199310_GAL_MESA.zip",
+        "descripcion": "17 de Octubre de 1993 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199203",
+        "convocatoria_fecha": "199203",
+        "convocatoria_descripcion": "Marzo 1992",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05199203_CAT_MESA.zip",
+        "nombreDoc": "05199203_CAT_MESA.zip",
+        "descripcion": "15 de Marzo de 1992 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198912",
+        "convocatoria_fecha": "198912",
+        "convocatoria_descripcion": "Diciembre 1989",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05198912_GAL_MESA.zip",
+        "nombreDoc": "05198912_GAL_MESA.zip",
+        "descripcion": "17 de Diciembre de 1989 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198805",
+        "convocatoria_fecha": "198805",
+        "convocatoria_descripcion": "Mayo 1988",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05198805_CAT_MESA.zip",
+        "nombreDoc": "05198805_CAT_MESA.zip",
+        "descripcion": "29 de Mayo de 1988 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201011",
+        "convocatoria_fecha": "201011",
+        "convocatoria_descripcion": "Noviembre 2010",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05201011_CAT_MESA.zip",
+        "nombreDoc": "05201011_CAT_MESA.zip",
+        "descripcion": "28 de Noviembre de 2010 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200403",
+        "convocatoria_fecha": "200403",
+        "convocatoria_descripcion": "Marzo 2004",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05200403_AND_MESA.zip",
+        "nombreDoc": "05200403_AND_MESA.zip",
+        "descripcion": "14 de Marzo de 2004 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200311",
+        "convocatoria_fecha": "200311",
+        "convocatoria_descripcion": "Noviembre 2003",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05200311_CAT_MESA.zip",
+        "nombreDoc": "05200311_CAT_MESA.zip",
+        "descripcion": "16 de Noviembre de 2003 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200305",
+        "convocatoria_fecha": "200305",
+        "convocatoria_descripcion": "Mayo 2003",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05200305_MESA.zip",
+        "nombreDoc": "05200305_MESA.zip",
+        "descripcion": "25 de Mayo de 2003 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200110",
+        "convocatoria_fecha": "200110",
+        "convocatoria_descripcion": "Octubre 2001",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05200110_GAL_MESA.zip",
+        "nombreDoc": "05200110_GAL_MESA.zip",
+        "descripcion": "21 de Octubre de 2001 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199810",
+        "convocatoria_fecha": "199810",
+        "convocatoria_descripcion": "Octubre 1998",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05199810_PVA_MESA.zip",
+        "nombreDoc": "05199810_PVA_MESA.zip",
+        "descripcion": "25 de Octubre de 1998 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200705",
+        "convocatoria_fecha": "200705",
+        "convocatoria_descripcion": "Mayo 2007",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05200705_MESA.zip",
+        "nombreDoc": "05200705_MESA.zip",
+        "descripcion": "27 de Mayo de 2007 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200305",
+        "convocatoria_fecha": "200305",
+        "convocatoria_descripcion": "Mayo 2003",
+        "convocatoria_tipoConvocatoria": 6,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/06200305_MESA.zip",
+        "nombreDoc": "06200305_MESA.zip",
+        "descripcion": "25 de Mayo de 2003 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199906",
+        "convocatoria_fecha": "199906",
+        "convocatoria_descripcion": "Junio 1999",
+        "convocatoria_tipoConvocatoria": 6,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/06199906_MESA.zip",
+        "nombreDoc": "06199906_MESA.zip",
+        "descripcion": "13 de Junio de 1999 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199505",
+        "convocatoria_fecha": "199505",
+        "convocatoria_descripcion": "Mayo 1995",
+        "convocatoria_tipoConvocatoria": 6,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/06199505_MESA.zip",
+        "nombreDoc": "06199505_MESA.zip",
+        "descripcion": "28 de Mayo de 1995 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199105",
+        "convocatoria_fecha": "199105",
+        "convocatoria_descripcion": "Mayo 1991",
+        "convocatoria_tipoConvocatoria": 6,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/06199105_MESA.zip",
+        "nombreDoc": "06199105_MESA.zip",
+        "descripcion": "26 de Mayo de 1991 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198706",
+        "convocatoria_fecha": "198706",
+        "convocatoria_descripcion": "Junio 1987",
+        "convocatoria_tipoConvocatoria": 15,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/15198706_MESA.zip",
+        "nombreDoc": "15198706_MESA.zip",
+        "descripcion": "10 de Junio de 1987 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199105",
+        "convocatoria_fecha": "199105",
+        "convocatoria_descripcion": "Mayo 1991",
+        "convocatoria_tipoConvocatoria": 15,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/15199105_MESA.zip",
+        "nombreDoc": "15199105_MESA.zip",
+        "descripcion": "26 de Mayo de 1991 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199505",
+        "convocatoria_fecha": "199505",
+        "convocatoria_descripcion": "Mayo 1995",
+        "convocatoria_tipoConvocatoria": 15,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/15199505_MESA.zip",
+        "nombreDoc": "15199505_MESA.zip",
+        "descripcion": "28 de Mayo de 1995 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199906",
+        "convocatoria_fecha": "199906",
+        "convocatoria_descripcion": "Junio 1999",
+        "convocatoria_tipoConvocatoria": 15,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/15199906_MESA.zip",
+        "nombreDoc": "15199906_MESA.zip",
+        "descripcion": "13 de Junio de 1999 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200305",
+        "convocatoria_fecha": "200305",
+        "convocatoria_descripcion": "Mayo 2003",
+        "convocatoria_tipoConvocatoria": 15,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/15200305_MESA.zip",
+        "nombreDoc": "15200305_MESA.zip",
+        "descripcion": "25 de Mayo de 2003 ( Mesa)"
+    },
+    {
+        "convocatoria_cod": "198404",
+        "convocatoria_fecha": "198404",
+        "convocatoria_descripcion": "Abril 1984",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05198404_CAT_MESA.zip",
+        "nombreDoc": "05198404_CAT_MESA.zip",
+        "descripcion": "29 de Abril de 1984 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198402",
+        "convocatoria_fecha": "198402",
+        "convocatoria_descripcion": "Febrero 1984",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05198402_PVA_MESA.zip",
+        "nombreDoc": "05198402_PVA_MESA.zip",
+        "descripcion": "26 de Febrero de 1984 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198305",
+        "convocatoria_fecha": "198305",
+        "convocatoria_descripcion": "Mayo 1983",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05198305_MESA.zip",
+        "nombreDoc": "05198305_MESA.zip",
+        "descripcion": " de Mayo de 1983 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198003",
+        "convocatoria_fecha": "198003",
+        "convocatoria_descripcion": "Marzo 1980",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05198003_MESA.zip",
+        "nombreDoc": "05198003_MESA.zip",
+        "descripcion": " de Marzo de 1980 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201105",
+        "convocatoria_fecha": "201105",
+        "convocatoria_descripcion": "Mayo 2011",
+        "convocatoria_tipoConvocatoria": 4,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/04201105_MESA.zip",
+        "nombreDoc": "04201105_MESA.zip",
+        "descripcion": "22 de Mayo de 2011 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201105",
+        "convocatoria_fecha": "201105",
+        "convocatoria_descripcion": "Mayo 2011",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05201105_MESA.zip",
+        "nombreDoc": "05201105_MESA.zip",
+        "descripcion": " de Mayo de 2011 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199710",
+        "convocatoria_fecha": "199710",
+        "convocatoria_descripcion": "Octubre 1997",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05199710_GAL_MESA.zip",
+        "nombreDoc": "05199710_GAL_MESA.zip",
+        "descripcion": "19 de Octubre de 1997 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199410",
+        "convocatoria_fecha": "199410",
+        "convocatoria_descripcion": "Octubre 1994",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05199410_PVA_MESA.zip",
+        "nombreDoc": "05199410_PVA_MESA.zip",
+        "descripcion": "23 de Octubre de 1994 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199105",
+        "convocatoria_fecha": "199105",
+        "convocatoria_descripcion": "Mayo 1991",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05199105_MESA.zip",
+        "nombreDoc": "05199105_MESA.zip",
+        "descripcion": " de Mayo de 1991 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199010",
+        "convocatoria_fecha": "199010",
+        "convocatoria_descripcion": "Octubre 1990",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05199010_PVA_MESA.zip",
+        "nombreDoc": "05199010_PVA_MESA.zip",
+        "descripcion": "28 de Octubre de 1990 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199006",
+        "convocatoria_fecha": "199006",
+        "convocatoria_descripcion": "Junio 1990",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05199006_AND_MESA.zip",
+        "nombreDoc": "05199006_AND_MESA.zip",
+        "descripcion": "23 de Junio de 1990 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200611",
+        "convocatoria_fecha": "200611",
+        "convocatoria_descripcion": "Noviembre 2006",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05200611_CAT_MESA.zip",
+        "nombreDoc": "05200611_CAT_MESA.zip",
+        "descripcion": "1 de Noviembre de 2006 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200504",
+        "convocatoria_fecha": "200504",
+        "convocatoria_descripcion": "Abril 2005",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05200504_PVA_MESA.zip",
+        "nombreDoc": "05200504_PVA_MESA.zip",
+        "descripcion": "17 de Abril de 2005 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201105",
+        "convocatoria_fecha": "201105",
+        "convocatoria_descripcion": "Mayo 2011",
+        "convocatoria_tipoConvocatoria": 6,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/06201105_MESA.zip",
+        "nombreDoc": "06201105_MESA.zip",
+        "descripcion": "22 de Mayo de 2011 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201111",
+        "convocatoria_fecha": "201111",
+        "convocatoria_descripcion": "Noviembre 2011",
+        "convocatoria_tipoConvocatoria": 3,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/03201111_MESA.zip",
+        "nombreDoc": "03201111_MESA.zip",
+        "descripcion": "20 de Noviembre de 2011 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201405",
+        "convocatoria_fecha": "201405",
+        "convocatoria_descripcion": "Mayo 2014",
+        "convocatoria_tipoConvocatoria": 7,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/07201405_MESA.zip",
+        "nombreDoc": "07201405_MESA.zip",
+        "descripcion": "25 de Mayo de 2014 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200506",
+        "convocatoria_fecha": "200506",
+        "convocatoria_descripcion": "Junio 2005",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05200506_GAL_MESA.zip",
+        "nombreDoc": "05200506_GAL_MESA.zip",
+        "descripcion": "19 de Junio de 2005 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199505",
+        "convocatoria_fecha": "199505",
+        "convocatoria_descripcion": "Mayo 1995",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05199505_MESA.zip",
+        "nombreDoc": "05199505_MESA.zip",
+        "descripcion": " de Mayo de 1995 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199406",
+        "convocatoria_fecha": "199406",
+        "convocatoria_descripcion": "Junio 1994",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05199406_AND_MESA.zip",
+        "nombreDoc": "05199406_AND_MESA.zip",
+        "descripcion": "12 de Junio de 1994 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199906",
+        "convocatoria_fecha": "199906",
+        "convocatoria_descripcion": "Junio 1999",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05199906_MESA.zip",
+        "nombreDoc": "05199906_MESA.zip",
+        "descripcion": " de Junio de 1999 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200705",
+        "convocatoria_fecha": "200705",
+        "convocatoria_descripcion": "Mayo 2007",
+        "convocatoria_tipoConvocatoria": 15,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/15200705_MESA.zip",
+        "nombreDoc": "15200705_MESA.zip",
+        "descripcion": "27 de Mayo de 2007 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201111",
+        "convocatoria_fecha": "201111",
+        "convocatoria_descripcion": "Noviembre 2011",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02201111_MESA.zip",
+        "nombreDoc": "02201111_MESA.zip",
+        "descripcion": "20 de Noviembre de 2011 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201203",
+        "convocatoria_fecha": "201203",
+        "convocatoria_descripcion": "Marzo 2012",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05201203_MESA.zip",
+        "nombreDoc": "05201203_MESA.zip",
+        "descripcion": " de Marzo de 2012 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201210",
+        "convocatoria_fecha": "201210",
+        "convocatoria_descripcion": "Octubre 2012",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05201210_MESA.zip",
+        "nombreDoc": "05201210_MESA.zip",
+        "descripcion": " de Octubre de 2012 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201211",
+        "convocatoria_fecha": "201211",
+        "convocatoria_descripcion": "Noviembre 2012",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05201211_CAT_MESA.zip",
+        "nombreDoc": "05201211_CAT_MESA.zip",
+        "descripcion": "25 de Noviembre de 2012 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200606",
+        "convocatoria_fecha": "200606",
+        "convocatoria_descripcion": "Junio 2006",
+        "convocatoria_tipoConvocatoria": 1,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/01200606_MESA.zip",
+        "nombreDoc": "01200606_MESA.zip",
+        "descripcion": "18 de Junio de 2006 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200702",
+        "convocatoria_fecha": "200702",
+        "convocatoria_descripcion": "Febrero 2007",
+        "convocatoria_tipoConvocatoria": 1,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/01200702_MESA.zip",
+        "nombreDoc": "01200702_MESA.zip",
+        "descripcion": "18 de Febrero de 2007 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198706",
+        "convocatoria_fecha": "198706",
+        "convocatoria_descripcion": "Junio 1987",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05198706_MESA.zip",
+        "nombreDoc": "05198706_MESA.zip",
+        "descripcion": " de Junio de 1987 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198611",
+        "convocatoria_fecha": "198611",
+        "convocatoria_descripcion": "Noviembre 1986",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05198611_PVA_MESA.zip",
+        "nombreDoc": "05198611_PVA_MESA.zip",
+        "descripcion": "30 de Noviembre de 1986 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198606",
+        "convocatoria_fecha": "198606",
+        "convocatoria_descripcion": "Junio 1986",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05198606_AND_MESA.zip",
+        "nombreDoc": "05198606_AND_MESA.zip",
+        "descripcion": "22 de Junio de 1986 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198511",
+        "convocatoria_fecha": "198511",
+        "convocatoria_descripcion": "Noviembre 1985",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05198511_GAL_MESA.zip",
+        "nombreDoc": "05198511_GAL_MESA.zip",
+        "descripcion": "24 de Noviembre de 1985 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198205",
+        "convocatoria_fecha": "198205",
+        "convocatoria_descripcion": "Mayo 1982",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05198205_AND_MESA.zip",
+        "nombreDoc": "05198205_AND_MESA.zip",
+        "descripcion": "23 de Mayo de 1982 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198110",
+        "convocatoria_fecha": "198110",
+        "convocatoria_descripcion": "Octubre 1981",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05198110_GAL_MESA.zip",
+        "nombreDoc": "05198110_GAL_MESA.zip",
+        "descripcion": "20 de Octubre de 1981 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201503",
+        "convocatoria_fecha": "201503",
+        "convocatoria_descripcion": "Marzo 2015",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05201503_AND_MESA.zip",
+        "nombreDoc": "05201503_AND_MESA.zip",
+        "descripcion": "22 de Marzo de 2015 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201505",
+        "convocatoria_fecha": "201505",
+        "convocatoria_descripcion": "Mayo 2015",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05201505_MESA.zip",
+        "nombreDoc": "05201505_MESA.zip",
+        "descripcion": "24 de Mayo de 2015 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201505",
+        "convocatoria_fecha": "201505",
+        "convocatoria_descripcion": "Mayo 2015",
+        "convocatoria_tipoConvocatoria": 4,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/04201505_MESA.zip",
+        "nombreDoc": "04201505_MESA.zip",
+        "descripcion": "24 de Mayo de 2015 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201505",
+        "convocatoria_fecha": "201505",
+        "convocatoria_descripcion": "Mayo 2015",
+        "convocatoria_tipoConvocatoria": 6,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/06201505_MESA.zip",
+        "nombreDoc": "06201505_MESA.zip",
+        "descripcion": "24 de Mayo de 2015 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201509",
+        "convocatoria_fecha": "201509",
+        "convocatoria_descripcion": "Septiembre 2015",
+        "convocatoria_tipoConvocatoria": 5,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/05201509_CAT_MESA.zip",
+        "nombreDoc": "05201509_CAT_MESA.zip",
+        "descripcion": "27 de Septiembre de 2015 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201512",
+        "convocatoria_fecha": "201512",
+        "convocatoria_descripcion": "Diciembre 2015",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02201512_MESA.zip",
+        "nombreDoc": "02201512_MESA.zip",
+        "descripcion": "20 de Diciembre de 2015 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201512",
+        "convocatoria_fecha": "201512",
+        "convocatoria_descripcion": "Diciembre 2015",
+        "convocatoria_tipoConvocatoria": 3,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/03201512_MESA.zip",
+        "nombreDoc": "03201512_MESA.zip",
+        "descripcion": "20 de Diciembre de 2015 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201606",
+        "convocatoria_fecha": "201606",
+        "convocatoria_descripcion": "Junio 2016",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02201606_MESA.zip",
+        "nombreDoc": "02201606_MESA.zip",
+        "descripcion": "26 de Junio de 2016 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201606",
+        "convocatoria_fecha": "201606",
+        "convocatoria_descripcion": "Junio 2016",
+        "convocatoria_tipoConvocatoria": 3,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/03201606_MESA.zip",
+        "nombreDoc": "03201606_MESA.zip",
+        "descripcion": "26 de Junio de 2016 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201904",
+        "convocatoria_fecha": "201904",
+        "convocatoria_descripcion": "Abril 2019",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02201904_MESA.zip",
+        "nombreDoc": "02201904_MESA.zip",
+        "descripcion": "28 de Abril de 2019 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201904",
+        "convocatoria_fecha": "201904",
+        "convocatoria_descripcion": "Abril 2019",
+        "convocatoria_tipoConvocatoria": 3,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/03201904_MESA.zip",
+        "nombreDoc": "03201904_MESA.zip",
+        "descripcion": "28 de Abril de 2019 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201905",
+        "convocatoria_fecha": "201905",
+        "convocatoria_descripcion": "Mayo 2019",
+        "convocatoria_tipoConvocatoria": 7,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/07201905_MESA.zip",
+        "nombreDoc": "07201905_MESA.zip",
+        "descripcion": "26 de Mayo de 2019 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201911",
+        "convocatoria_fecha": "201911",
+        "convocatoria_descripcion": "Noviembre 2019",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02201911_MESA.zip",
+        "nombreDoc": "02201911_MESA.zip",
+        "descripcion": "10 de Noviembre de 2019 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201911",
+        "convocatoria_fecha": "201911",
+        "convocatoria_descripcion": "Noviembre 2019",
+        "convocatoria_tipoConvocatoria": 3,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/03201911_MESA.zip",
+        "nombreDoc": "03201911_MESA.zip",
+        "descripcion": "10 de Noviembre de 2019 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201905",
+        "convocatoria_fecha": "201905",
+        "convocatoria_descripcion": "Mayo 2019",
+        "convocatoria_tipoConvocatoria": 4,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/04201905_MESA.zip",
+        "nombreDoc": "04201905_MESA.zip",
+        "descripcion": "26 de Mayo de 2019 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201905",
+        "convocatoria_fecha": "201905",
+        "convocatoria_descripcion": "Mayo 2019",
+        "convocatoria_tipoConvocatoria": 6,
+        "convocatoria_ambitoTerritorio": "Autonomico",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/06201905_MESA.zip",
+        "nombreDoc": "06201905_MESA.zip",
+        "descripcion": "26 de Mayo de 2019 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "202307",
+        "convocatoria_fecha": "202307",
+        "convocatoria_descripcion": "Julio 2023",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02202307_MESA.zip",
+        "nombreDoc": "02202307_MESA.zip",
+        "descripcion": "23 de Julio de 2023 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "202307",
+        "convocatoria_fecha": "202307",
+        "convocatoria_descripcion": "Julio 2023",
+        "convocatoria_tipoConvocatoria": 3,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/03202307_MESA.zip",
+        "nombreDoc": "03202307_MESA.zip",
+        "descripcion": "23 de Julio de 2023 (Mesa)"
+    }
+]

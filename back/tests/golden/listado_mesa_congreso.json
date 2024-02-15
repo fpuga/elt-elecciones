@@ -1,0 +1,142 @@
+[
+    {
+        "convocatoria_cod": "202307",
+        "convocatoria_fecha": "202307",
+        "convocatoria_descripcion": "Julio 2023",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02202307_MESA.zip",
+        "nombreDoc": "02202307_MESA.zip",
+        "descripcion": "23 de Julio de 2023 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200003",
+        "convocatoria_fecha": "200003",
+        "convocatoria_descripcion": "Marzo 2000",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02200003_MESA.zip",
+        "nombreDoc": "02200003_MESA.zip",
+        "descripcion": "12 de Marzo de 2000 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199306",
+        "convocatoria_fecha": "199306",
+        "convocatoria_descripcion": "Junio 1993",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02199306_MESA.zip",
+        "nombreDoc": "02199306_MESA.zip",
+        "descripcion": "6 de Junio de 1993 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198910",
+        "convocatoria_fecha": "198910",
+        "convocatoria_descripcion": "Octubre 1989",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02198910_MESA.zip",
+        "nombreDoc": "02198910_MESA.zip",
+        "descripcion": "29 de Octubre de 1989 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198606",
+        "convocatoria_fecha": "198606",
+        "convocatoria_descripcion": "Junio 1986",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02198606_MESA.zip",
+        "nombreDoc": "02198606_MESA.zip",
+        "descripcion": "22 de Junio de 1986 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "198210",
+        "convocatoria_fecha": "198210",
+        "convocatoria_descripcion": "Octubre 1982",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02198210_MESA.zip",
+        "nombreDoc": "02198210_MESA.zip",
+        "descripcion": "28 de Octubre de 1982 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200803",
+        "convocatoria_fecha": "200803",
+        "convocatoria_descripcion": "Marzo 2008",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02200803_MESA.zip",
+        "nombreDoc": "02200803_MESA.zip",
+        "descripcion": "9 de Marzo de 2008 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "199603",
+        "convocatoria_fecha": "199603",
+        "convocatoria_descripcion": "Marzo 1996",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02199603_MESA.zip",
+        "nombreDoc": "02199603_MESA.zip",
+        "descripcion": "3 de Marzo de 1996 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "200403",
+        "convocatoria_fecha": "200403",
+        "convocatoria_descripcion": "Marzo 2004",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02200403_MESA.zip",
+        "nombreDoc": "02200403_MESA.zip",
+        "descripcion": "14 de Marzo de 2004 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201111",
+        "convocatoria_fecha": "201111",
+        "convocatoria_descripcion": "Noviembre 2011",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02201111_MESA.zip",
+        "nombreDoc": "02201111_MESA.zip",
+        "descripcion": "20 de Noviembre de 2011 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201512",
+        "convocatoria_fecha": "201512",
+        "convocatoria_descripcion": "Diciembre 2015",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02201512_MESA.zip",
+        "nombreDoc": "02201512_MESA.zip",
+        "descripcion": "20 de Diciembre de 2015 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201606",
+        "convocatoria_fecha": "201606",
+        "convocatoria_descripcion": "Junio 2016",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02201606_MESA.zip",
+        "nombreDoc": "02201606_MESA.zip",
+        "descripcion": "26 de Junio de 2016 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201904",
+        "convocatoria_fecha": "201904",
+        "convocatoria_descripcion": "Abril 2019",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02201904_MESA.zip",
+        "nombreDoc": "02201904_MESA.zip",
+        "descripcion": "28 de Abril de 2019 (Mesa)"
+    },
+    {
+        "convocatoria_cod": "201911",
+        "convocatoria_fecha": "201911",
+        "convocatoria_descripcion": "Noviembre 2019",
+        "convocatoria_tipoConvocatoria": 2,
+        "convocatoria_ambitoTerritorio": "Nacional",
+        "url": "https://infoelectoral.interior.gob.es/estaticos/docxl/apliextr/02201911_MESA.zip",
+        "nombreDoc": "02201911_MESA.zip",
+        "descripcion": "10 de Noviembre de 2019 (Mesa)"
+    }
+]
